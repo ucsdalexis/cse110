@@ -6,6 +6,8 @@
 - [BASIC INFO](#basic-info)
 - [RANDOM INFO](#random-info)
 - [CLASSES](#classes)
+- [PICTURES](#pictures)
+- [EXPERIENCE](#languages)
 
 ---
 
@@ -77,4 +79,26 @@ return Fib(n - 1) + Fib(n - 2)
 
 ## <span style="color:lightcoral">**PICTURES**</span>
 
+### <span style="color:indianred">**PICTURES IVE TAKEN**</span>
+1. [Flowers I Saw on Spring Break](sub_index/spring_break.md)
+2. [Crochet Projects](sub_index/spring_break.md)
+
 ### <span style="color:indianred">**ME**</span>
+[<img src="./images/family.JPG" width="500"/>](./images/family.JPG)
+[<img src="./images/family_2.png" width="500"/>](./images/family_2.png)
+
+---
+
+## <span style="color:lightcoral">**LANGUAGES**</span>
+*Checked off languages are ones I have experience in and unchecked languages are ones I am interested in working with.*
+- [x] HTML
+- [x] CSS
+- [x] Python
+- [x] Javascript
+- [x] Java
+- [x] C++
+- [x] PHP
+- [x] C
+- [x] mySql
+- [ ] Swift
+- [ ] Unity
