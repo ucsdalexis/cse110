@@ -1,6 +1,6 @@
 # <span style="color:lightpink">**ALEXIS CHAO**</span>
 
----
+
 
 ## <span style="color:lightcoral">**TABLE OF CONTENTS**</span>
 - [BASIC INFO](#basic-info)
@@ -9,7 +9,7 @@
 - [PICTURES](#pictures)
 - [EXPERIENCE](#languages)
 
----
+
 
 ## <span style="color:lightcoral">**BASIC INFO**</span>
 
@@ -22,7 +22,7 @@
 ### <span style="color:indianred">**MAJOR**</span>
 > Computer Science
 
----
+
 
 ## <span style="color:lightcoral">**RANDOM INFO**</span>
 
@@ -52,7 +52,7 @@ if n = 1 return 1
 return Fib(n - 1) + Fib(n - 2) 
 ```
 
----
+
 
 ## <span style="color:lightcoral">**CLASSES**</span>
 
@@ -75,7 +75,7 @@ return Fib(n - 1) + Fib(n - 2)
 > MGT 167<br />
 > PHIL 150 
 
----
+
 
 ## <span style="color:lightcoral">**PICTURES**</span>
 
@@ -87,7 +87,7 @@ return Fib(n - 1) + Fib(n - 2)
 [<img src="./images/family.JPG" width="500"/>](./images/family.JPG)
 [<img src="./images/family_2.png" width="500"/>](./images/family_2.png)
 
----
+
 
 ## <span style="color:lightcoral">**LANGUAGES**</span>
 *Checked off languages are ones I have experience in and unchecked languages are ones I am interested in working with.*
